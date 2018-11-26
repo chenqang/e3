@@ -5,6 +5,8 @@ import java.util.Date;
 public class TbContent {
     private Long id;
 
+    private int a;
+
     private Long categoryId;
 
     private String title;
