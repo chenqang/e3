@@ -7,6 +7,8 @@ public class TbContent {
 
     private int a;
 
+    private int b;
+
     private Long categoryId;
 
     private String title;
